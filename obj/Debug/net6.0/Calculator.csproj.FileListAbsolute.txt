@@ -1,0 +1,15 @@
+D:\APK\C#\Projects\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\APK\C#\Projects\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\APK\C#\Projects\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\APK\C#\Projects\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\APK\C#\Projects\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\APK\C#\Projects\Calculator\obj\Debug\net6.0\ref\Calculator.dll
